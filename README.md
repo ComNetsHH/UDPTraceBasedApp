@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/397504015.svg)](https://zenodo.org/badge/latestdoi/397504015)
+[![DOI](https://zenodo.org/badge/400264418.svg)](https://zenodo.org/badge/latestdoi/400264418)
 # UdpTraceBasedApp
 OMNeT++ Trace-Based Data Traffic Application extends the INET's `UdpBasicApp` by using a trace file to trigger the packet transmission. The file is a plain text file, where every line describes the trigger time of one packet, e.g., 
 
